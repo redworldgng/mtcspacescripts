@@ -1,2 +1,2 @@
 # MTCSpace Official Repository
-**NOT** open-source
+**NOT** open-source, read the license for more information
